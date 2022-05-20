@@ -2,7 +2,7 @@ import telebot
 import random
 from telebot import types
 
-Bot_API = '5078604639:AAG46KGuLk-do6kD_diezPWAHqoX4m2izD4'
+Bot_API = ''
 bot = telebot.TeleBot(Bot_API)
 
 Places = [
